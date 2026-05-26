@@ -25,3 +25,12 @@ Welcome to this organized and comprehensive repository of Solidity smart contrac
 
 1. **Solidity Compiler (`solc`):** Version `^0.8.20` is recommended.
 2. **Framework Support:** Can be integrated into Remix, Hardhat, or Foundry for testing and compilation.
+
+---
+
+## 👥 Collaborators
+
+- Abel Belete
+- Sebona alemu
+- Yared Solomon
+
