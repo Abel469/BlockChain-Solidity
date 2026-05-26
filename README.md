@@ -33,4 +33,6 @@ Welcome to this organized and comprehensive repository of Solidity smart contrac
 - Abel Belete
 - Sebona alemu
 - Yared Solomon
+- Dereje bogale
+- Amanuel selamu
 
